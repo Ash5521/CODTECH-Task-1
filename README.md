@@ -10,6 +10,7 @@ This project highlights my skills, creativity, and problem-solving abilities thr
 <h1>Project Overview</h1>
 
 TO DO LIST
+
 Objective:
 Develop a user-friendly web application that allows users to manage tasks effectively through a digital to-do list. The application will enable users to create, edit, delete, and categorize tasks, providing a simple interface to enhance productivity.
 
